@@ -37,3 +37,10 @@ const PBO = [
 
   "",
 ];
+
+const bahasaAssembly = {
+  bit: "bit adalah binary digit yang hanya terdapat antara angka 0 dan 1 aja. Bit adalah satuan terkecil dalam komputasi digital. Semua data komputer disimpan dengan angka binary/biner",
+  Byte: "1 Byte adalah 8 satuan bit.",
+  perbedaan_Byte_dan_bit:
+    "Byte mempunyai satuan yang besar (dari bit). Sedangkan bit merupakan satuan yang lebih kecil. ",
+};
